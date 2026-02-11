@@ -1,0 +1,8 @@
+{
+  "name": "RM Industrial Corporation",
+  "description": "Modern corporate website for a 40-year-old industrial trading leader in Kolkata, featuring product catalogs and smart order management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
